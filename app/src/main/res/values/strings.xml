@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial03MCA</string>
+    <string name="login_here">Login Here</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="click_me">Click Me</string>
+</resources>
